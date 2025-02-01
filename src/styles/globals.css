@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400&display=swap');
+
+body {
+  font-family: 'Source Code Pro', monospace; 
+  margin: 0; 
+  padding: 0; 
+  box-sizing: border-box; 
+  background-color: #1a202c; 
+  color: #ffffff; 
+}
+
+h1, h2, h3, h4, h5, h6, p {
+  font-family: 'Source Code Pro', monospace; 
+}
